@@ -5,13 +5,13 @@
 h1
 {
     text-align: center;
-    background-color: #888;
-    color: #fff;
+    background-color: #766;
+    color: #fcc;
 }
 input,
 button
 {
-    border:1px solid #ccc;
+    border:1px solid #fbb;
     font-size:5vw;
     line-height:7vw;
     height:10vw;
@@ -33,16 +33,16 @@ button
 #chats dt
 {
     margin: 2vw 0;
-    border:1px solid #333;
+    border:1px solid #912;
     border-radius:3vw;
     padding:1vw 3vw;
-    display: inline-block;
+    display: inline-table;
 }
 #chats dd
 {
     margin-left: 8vw;
     position: relative;
-    background-color:#ccc;
+    background-color:#fcc;
     border-radius:3vw;
     padding:1vw 3vw;
 }
@@ -55,7 +55,7 @@ button
     left: -6vw;
     margin-top: -7vw;
     border: 3vw solid transparent;
-    border-right: 8vw solid #ccc;
+    border-right: 8vw solid #fcc;
     transform: rotate(40deg);
     z-index: -1;
 }
