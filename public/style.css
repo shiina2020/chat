@@ -13,6 +13,7 @@ button
 {
     border:1px solid #fbb;
     font-size:5vw;
+    color: #912;
     line-height:7vw;
     height:10vw;
     padding:0 5vw;
@@ -37,6 +38,7 @@ button
     border-radius:3vw;
     padding:1vw 3vw;
     display: inline-table;
+    color: #933;
 }
 #chats dd
 {
@@ -45,6 +47,7 @@ button
     background-color:#fcc;
     border-radius:3vw;
     padding:1vw 3vw;
+    color: #511;
 }
 #chats dd::before
 {
